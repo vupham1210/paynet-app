@@ -1,0 +1,79 @@
+.title-tab {
+    max-width: 300px;
+    font-size: 34px;
+    font-weight: bold;
+    color: #142b43;
+    margin-bottom: 16px;
+}
+.nav-tabs {
+    border: none;
+}
+.wrap-tab .nav-tabs .nav-link.active {
+    border: none;
+    border-bottom: 1px solid #01a6ff;
+    color: #01a6ff;
+}
+.wrap-tab .nav-tabs .nav-link {
+    padding: 14px 16px;
+    transition: 0.3s;
+    border-bottom: 1px solid #e7eaec;
+    color: #142b43;
+    font-size: 14px;
+}
+.desc-tab {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 16px;
+    color: #7d8a99;
+}
+.btn-dkkd{
+    width: 269px;
+    height: 48px;
+    margin-top: 0px;
+    border-radius: 8px;
+    background-color: #006dff;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 33px;
+    font-weight: 600;
+}
+.btn-dkkd:hover,.btn-dknhn:hover,.btn-dkn:hover {
+    color: #006dff;
+    background: white;
+    border: 2px solid #006dff;
+    line-height: 31px;
+}
+.ttdk.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ttdk.row img , .wrap-tab img{
+    width: 100%;
+}
+.title-cs {
+    font-size: 24px;
+    font-weight: bold;
+    color: #142b43;
+    margin-bottom: 24px;
+}
+.ttdk p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    color: #142b43;
+}
+.ttdk.row h6 span {
+    color: #006dff;
+}
+.btn-dknhn {
+    width: 350px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: #006dff;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 33px;
+    display: block;
+    margin: 25px auto 40px;
+}

@@ -1,0 +1,112 @@
+.title-head {
+    margin-bottom: 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: #142b43;
+    margin-top: 36px;
+}
+.desc-head{
+    font-size: 18px;
+    line-height: 1.78;
+    color: #7d8a99;
+}
+.img-bg img{
+    width: 100%;
+    display: none;
+}
+.img-bg {
+    width: 80%;
+    height: 300px;
+    background-position: 50% 65%;
+    background-size: 150%;
+    border-radius: 20px;
+    margin: auto;
+}
+.wrap-gptt img {
+    width: 60%;
+}
+.wrap-gptt {
+    text-align: center;
+    margin-top: 40px;
+}
+.wrap-gptt .title-text {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    padding: 0 30px;
+    color: #142b43;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+.wrap-gptt .desc-text {
+    text-align: justify;
+    margin-bottom: 24px;
+    max-width: 100%;
+    font-size: 16px;
+    line-height: 1.44;
+    color: #8995a1;
+    padding: 0 30px;
+}
+.wrap-gptt .desc {
+    max-width: 100%;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #142b43;
+    padding: 0 30px;
+    text-align: justify;
+}
+.have-border {
+    padding-bottom: 20px;
+    position: relative;
+}
+.have-border:before {
+    content: "";
+    width: 20%;
+    height: 2px;
+    background: #01a1ff;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}
+.wrap-dktkkd {
+    margin-top: 40px;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #f7faff;
+}
+.wrap-dktkkd .title-head {
+    margin-top: 28px;
+    font-size: 32px;
+    color: #142b43;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.wrap-dktkkd p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: #142b43;
+    margin-bottom: 20px;
+}
+.btn-dkn {
+    margin-right: 30px;
+    width: 196px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: #006dff;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    line-height: 33px;
+    font-weight: 600;
+}
+.btn-hddk {
+    width: 196px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: #e6f0ff;
+    color: #00a3ff;
+    font-size: 18px;
+    line-height: 33px;
+    font-weight: 600;
+}
